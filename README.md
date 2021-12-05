@@ -32,45 +32,6 @@ Shields for your Read me
 
 <details><summary><b><img src="https://img.shields.io/badge/Expand-Details-yellow.svg" alt="SPARKSheild-Expand"></b></summary>
 
-<h2 id="menu">Menu</h2>
-<ul>
-<li><a href="#-contact-">📱 Contact</a></li>
-<li><a href="#-group-">🤜🤛 Group</a></li>
-<li><a href="#-social-">👨👩 Social</a></li>
-<li><a href="#-languages-">👩‍💻 Languages</a></li>
-<li><a href="#-database-">⚡ Database</a></li>
-<li><a href="#orm">⚙️ ORM </a></li>
-<li><a href="#-software-metrics-and-analytics-">👩‍💻 Software Metrics and Analytics</a></li>
-<li><a href="#-mobile-frameworks-">📱 Mobile Frameworks</a></li>
-<li><a href="#-frameworks-">🚀 Frameworks</a></li>
-<li><a href="#%EF%B8%8F-workflow-platforms-">⏱️ Workflow Platforms</a></li>
-<li><a href="#-security-platforms-">🔒 Security Platforms</a></li>
-<li><a href="#-cloud-">☁ Cloud</a></li>
-<li><a href="#-web-browsers-">🌐 Web Browsers</a></li>
-<li><a href="#-analytics-">📊 Analytics</a></li>
-<li><a href="#-os-">💻 OS</a></li>
-<li><a href="#-ide-">👩‍💻 IDE</a></li>
-<li><a href="#-prototyping-platforms-">💡 Prototyping Platforms</a></li>
-<li><a href="#-store-">🛒 Store</a></li>
-<li><a href="#-office-">👨‍💻 Office</a></li>
-<li><a href="#-workspace-spec-">💻 Workspace Spec</a></li>
-<li><a href="#-design-">🖍📐 Design</a></li>
-<li><a href="#-games-">🎮🕹 Games</a></li>
-<li><a href="#-education-">🎓📚 Education</a></li>
-<li><a href="#-blog-">📝 Blog</a></li>
-<li><a href="#-streaming-">🎞 Streaming</a></li>
-<li><a href="#-cryptocurrency-">💲 Cryptocurrency</a></li>
-<li><a href="#-funding-">❤ Funding</a></li>
-<li><a href="#-sound-">🎶 Sound</a></li>
-<li><a href="#-food-">🍔🍕 Food</a></li>
-<li><a href="#-linters-">🧐 Linters</a></li>
-<li><a href="#-terminal-">💻 Terminal</a></li>
-<li><a href="#-artificial-intelligence-">🤖 Artificial Intelligence</a></li>
-<li><a href="#-dynamic-">🔁 Dynamic</a></li>
-<li><a href="#-spatial-software-">💻🗺 Spatial software</a></li>
-<li><a href="#-contribute-">✏ Contribute</a></li>
-<li><a href="#more-">More</a></li>
-</ul>
 <h2 id="-contact-welcome-badges-4-readmemd-profile-">📱 Contact <a href="#welcome-badges-4-readmemd-profile">🔝</a></h2>
 <table>
 <thead>
@@ -2582,6 +2543,36 @@ Shields for your Read me
   
   
 </details>
+
+## Styles -
+
+To add styles, type ` ?style= ` then, name any of the following Styles-
+
+ - Plastic 
+ 
+ 
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-red.svg?style=plastic)
+ 
+ - Flat 
+
+
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-red.svg?style=flat)
+ 
+ - Flat-Square
+
+
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-red.svg?style=flat-square)
+ 
+ - For-the-badge
+
+
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-red.svg?style=for-the-badge)
+ 
+ - Social
+
+
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-red.svg?style=social)
+
 
 ---
 
