@@ -1,7 +1,15 @@
 # SPARK-Shields
+
+![SPARKSheildbadge-SparkScratch-P](https://img.shields.io/badge/SparkScratch-P-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
 Highly Customizable Dynamic and Static Badge Creator for Profile Readme.Md and Webpages with Github, Wakatime, and Sheilds.io in Dynamic HTML
 
 Shields for your Read me 
+
+![SPARKSheildbadge-Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-3040-green.svg)
+![SPARKSheildbadge-comt](https://img.shields.io/github/last-commit/SparkScratch-P/SPARK-Sheilds/main)
+![l](https://img.shields.io/github/license/SparkScratch-P/SPARK-Sheilds)
+
 
 # Shield Icons for Brands
 
@@ -15,7 +23,8 @@ Shields for your Read me
 
 
 ## Explore the Amazing Collection of 1500+ Company Badges!
-![SPARKSheildbadge-Badges](https://img.shields.io/badge/Badges-1500 +-blue.svg)
+
+![SPARKSheildbadge-Badges](https://img.shields.io/badge/Badges-1500+-blue.svg)
 
 ---
 
@@ -3021,9 +3030,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 
 ---
 
-# Add Badges and themes , we would be happy to merge PRs and get your Contributions Credited!!!
+## Add Badges and themes , we would be happy to merge PRs and get your Contributions Credited!!!
 
-# Show Some Support by Stars and forks on this Repo!
+## Show Some Support by Stars and forks on this Repo!
 
-# Thank you ! 
+## Thank you ! 
 
