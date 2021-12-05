@@ -1,4 +1,4 @@
-# SPARK-Sheilds
+# SPARK-Shields
 Highly Customizable Dynamic and Static Badge Creator for Profile Readme.Md and Webpages with Github, Wakatime, and Sheilds.io in Dynamic HTML
 
 Shields for your Read me 
@@ -13,13 +13,15 @@ Shields for your Read me
 <li>Copy and paste on your profile</li>
 </ol>
 
-<h1 style="color:blue;">welcome badges 4 readmemd profile</h1>
 
 ## Explore the Amazing Collection of 1500+ Company Badges!
+![SPARKSheildbadge-Badges](https://img.shields.io/badge/Badges-1500 +-blue.svg)
 
 ---
 
-<details><summary><b>Click to EXPAND</b></summary>
+<h1 style="color:blue;">Welcome ; Badges 4 Readmemd Profile</h1>
+
+<details><summary><b><img src="https://img.shields.io/badge/Expand-Details-yellow.svg" alt="SPARKSheild-Expand"></b></summary>
 
 <h2 id="menu">Menu</h2>
 <ul>
@@ -2599,7 +2601,7 @@ The implementation can be investigated at [src/calculateRank.js](./src/calculate
 - Customization
 
 <details>
-  <summary>Expand</summary>
+  <summary><img src="https://img.shields.io/badge/Expand-Details-yellow.svg" alt="SPARKSheild-Expand"></summary>
   
 <h3 id="hiding-individual-stats">Hiding individual stats</h3>
 <p>To hide any specific stats, you can pass a query parameter <code>?hide=</code> with comma-separated values.</p>
@@ -2750,6 +2752,8 @@ Language names should be uri-escaped, as specified in <a href="https://en.wikipe
 
 ### All Demos
 
+<details><summary><img src="https://img.shields.io/badge/Expand-Details-yellow.svg" alt="SPARKSheild-Expand"></summary>
+
 - Default
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P)
@@ -2799,6 +2803,8 @@ Choose from any of the [default themes](#themes)
 - Wakatime card
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/SparkScratch-P/github-readme-stats)
+  
+</details>
 
 ---
 
@@ -2866,7 +2872,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 
 > These themes work both for the Stats Card and Repo Card.
 
-<details><summary>Expand</summary>
+<details><summary><img src="https://img.shields.io/badge/Expand-Details-yellow.svg" alt="SPARKSheild-Expand"></summary>
 <p>
 
 | | | |
