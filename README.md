@@ -3015,7 +3015,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 
 ---
 
-Show Some Support by Stars and forks on this Repo!
+# Add Badges and themes , we would be happy to merge PRs and get your Contributions Credited!!!
 
-Thank you ! 
+# Show Some Support by Stars and forks on this Repo!
+
+# Thank you ! 
 
