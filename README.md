@@ -1,3 +1,9 @@
+
+<img src="https://github.com/SparkScratch-P/SPARK-Shields/blob/main/SPARK-Shieldsicon.png?raw=true" 
+         alt="ico" 
+         align="centre">
+---
+
 # SPARK-Shields
 
 !['](https://visitor-badge.glitch.me/badge?page_id=SPARK-Sheilds.visitor-badge&left_text=Visitors)
@@ -6,7 +12,7 @@ Highly Customizable Dynamic and Static Badge Creator for Profile Readme.Md and W
 
 Shields for your Readme 
 
-![ico](https://github.com/SparkScratch-P/SPARK-Shields/blob/main/SPARK-Shieldsicon.png?raw=true)
+
 
 # Shield Icons for Brands
 
