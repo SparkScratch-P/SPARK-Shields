@@ -1,8 +1,8 @@
 
 <img src="https://github.com/SparkScratch-P/SPARK-Shields/blob/main/SPARK-Shieldsicon.png?raw=true" 
          alt="ico" 
-         align="centre">
----
+         align="right">
+
 
 # SPARK-Shields
 
