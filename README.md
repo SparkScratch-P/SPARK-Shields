@@ -2839,7 +2839,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 
 > These themes work both for the Stats Card and Repo Card.
 
-<details><summary>Expand</summary>
+<details><summary><img src="https://img.shields.io/badge/Expand-Details-yellow.svg" alt="SPARKSheild-Expand"></summary>
+<p>
 <p>
   
 | | | |
