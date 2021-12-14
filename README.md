@@ -4,7 +4,9 @@
 
 Highly Customizable Dynamic and Static Badge Creator for Profile Readme.Md and Webpages with Github, Wakatime, and Sheilds.io in Dynamic HTML
 
-Shields for your Read me 
+Shields for your Readme 
+
+![ico](https://github.com/SparkScratch-P/SPARK-Shields/blob/main/SPARK-Shieldsicon.png?raw=true)
 
 # Shield Icons for Brands
 
