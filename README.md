@@ -15,7 +15,8 @@ Shields for your Read me
 
 
 ## Explore the Amazing Collection of 1500+ Company Badges!
-![SPARKSheildbadge-Badges](https://img.shields.io/badge/Badges-1500 +-blue.svg)
+
+![SPARKSheildbadge-Badges](https://img.shields.io/badge/Badges-1500+-blue.svg)
 
 ---
 
