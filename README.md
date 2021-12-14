@@ -2853,148 +2853,113 @@ Use `?theme=THEME_NAME` parameter like so :-
 <details><summary><img src="https://img.shields.io/badge/Expand-Details-yellow.svg" alt="SPARKSheild-Expand"></summary>
   
 <p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><code>default_repocard</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=default_repocard" alt="default_repocard"></td>
+<td style="text-align:center"><code>dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=dark" alt="dark"></td>
+<td style="text-align:center"><code>radical</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=radical" alt="radical"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>merko</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=merko" alt="merko"></td>
+<td style="text-align:center"><code>gruvbox</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=gruvbox" alt="gruvbox"></td>
+<td style="text-align:center"><code>gruvbox_light</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=gruvbox_light" alt="gruvbox_light"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>tokyonight</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=tokyonight" alt="tokyonight"></td>
+<td style="text-align:center"><code>onedark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=onedark" alt="onedark"></td>
+<td style="text-align:center"><code>cobalt</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=cobalt" alt="cobalt"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>synthwave</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=synthwave" alt="synthwave"></td>
+<td style="text-align:center"><code>highcontrast</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=highcontrast" alt="highcontrast"></td>
+<td style="text-align:center"><code>dracula</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=dracula" alt="dracula"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>prussian</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=prussian" alt="prussian"></td>
+<td style="text-align:center"><code>monokai</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=monokai" alt="monokai"></td>
+<td style="text-align:center"><code>vue</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=vue" alt="vue"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>vue-dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=vue-dark" alt="vue-dark"></td>
+<td style="text-align:center"><code>shades-of-purple</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=shades-of-purple" alt="shades-of-purple"></td>
+<td style="text-align:center"><code>nightowl</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=nightowl" alt="nightowl"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>buefy</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=buefy" alt="buefy"></td>
+<td style="text-align:center"><code>blue-green</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=blue-green" alt="blue-green"></td>
+<td style="text-align:center"><code>algolia</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=algolia" alt="algolia"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>great-gatsby</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=great-gatsby" alt="great-gatsby"></td>
+<td style="text-align:center"><code>darcula</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=darcula" alt="darcula"></td>
+<td style="text-align:center"><code>bear</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=bear" alt="bear"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>solarized-dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=solarized-dark" alt="solarized-dark"></td>
+<td style="text-align:center"><code>solarized-light</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=solarized-light" alt="solarized-light"></td>
+<td style="text-align:center"><code>chartreuse-dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=chartreuse-dark" alt="chartreuse-dark"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>nord</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=nord" alt="nord"></td>
+<td style="text-align:center"><code>gotham</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=gotham" alt="gotham"></td>
+<td style="text-align:center"><code>material-palenight</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=material-palenight" alt="material-palenight"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>graywhite</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=graywhite" alt="graywhite"></td>
+<td style="text-align:center"><code>vision-friendly-dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=vision-friendly-dark" alt="vision-friendly-dark"></td>
+<td style="text-align:center"><code>ayu-mirage</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=ayu-mirage" alt="ayu-mirage"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>midnight-purple</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple"></td>
+<td style="text-align:center"><code>calm</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=calm" alt="calm"></td>
+<td style="text-align:center"><code>flag-india</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=flag-india" alt="flag-india"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>omni</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=omni" alt="omni"></td>
+<td style="text-align:center"><code>react</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=react" alt="react"></td>
+<td style="text-align:center"><code>jolly</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=jolly" alt="jolly"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>maroongold</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=maroongold" alt="maroongold"></td>
+<td style="text-align:center"><code>yeblu</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=yeblu" alt="yeblu"></td>
+<td style="text-align:center"><code>blueberry</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=blueberry" alt="blueberry"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>slateorange</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=slateorange" alt="slateorange"></td>
+<td style="text-align:center"><code>kacho_ga</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=kacho_ga" alt="kacho_ga"></td>
+<td style="text-align:center"><code>outrun</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=outrun" alt="outrun"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>ocean_dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=ocean_dark" alt="ocean_dark"></td>
+<td style="text-align:center"><code>city_lights</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=city_lights" alt="city_lights"></td>
+<td style="text-align:center"><code>github_dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=github_dark" alt="github_dark"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>discord_old_blurple</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=discord_old_blurple" alt="discord_old_blurple"></td>
+<td style="text-align:center"><code>aura_dark</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=aura_dark" alt="aura_dark"></td>
+<td style="text-align:center"><code>panda</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=panda" alt="panda"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>noctis_minimus</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=noctis_minimus" alt="noctis_minimus"></td>
+<td style="text-align:center"><code>cobalt2</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=cobalt2" alt="cobalt2"></td>
+<td style="text-align:center"><code>swift</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=swift" alt="swift"></td>
+</tr>
+<tr>
+<td style="text-align:center"><code>aura</code> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=aura" alt="aura"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"><a href="https://github.com/SparkScratch-P/github-readme-stats/edit/master/themes/index.js">Add your theme</a></td>
+</tr>
+</tbody>
+</table>
 
-| | | |
-| :--: | :--: | :--: |
-| `default_repocard` ![default_repocard][default_repocard_repo] | `dark` ![dark][dark_repo] | `radical` ![radical][radical_repo] |
-| `merko` ![merko][merko_repo] | `gruvbox` ![gruvbox][gruvbox_repo] | `gruvbox_light` ![gruvbox_light][gruvbox_light_repo] |
-| `tokyonight` ![tokyonight][tokyonight_repo] | `onedark` ![onedark][onedark_repo] | `cobalt` ![cobalt][cobalt_repo] |
-| `synthwave` ![synthwave][synthwave_repo] | `highcontrast` ![highcontrast][highcontrast_repo] | `dracula` ![dracula][dracula_repo] |
-| `prussian` ![prussian][prussian_repo] | `monokai` ![monokai][monokai_repo] | `vue` ![vue][vue_repo] |
-| `vue-dark` ![vue-dark][vue-dark_repo] | `shades-of-purple` ![shades-of-purple][shades-of-purple_repo] | `nightowl` ![nightowl][nightowl_repo] |
-| `buefy` ![buefy][buefy_repo] | `blue-green` ![blue-green][blue-green_repo] | `algolia` ![algolia][algolia_repo] |
-| `great-gatsby` ![great-gatsby][great-gatsby_repo] | `darcula` ![darcula][darcula_repo] | `bear` ![bear][bear_repo] |
-| `solarized-dark` ![solarized-dark][solarized-dark_repo] | `solarized-light` ![solarized-light][solarized-light_repo] | `chartreuse-dark` ![chartreuse-dark][chartreuse-dark_repo] |
-| `nord` ![nord][nord_repo] | `gotham` ![gotham][gotham_repo] | `material-palenight` ![material-palenight][material-palenight_repo] |
-| `graywhite` ![graywhite][graywhite_repo] | `vision-friendly-dark` ![vision-friendly-dark][vision-friendly-dark_repo] | `ayu-mirage` ![ayu-mirage][ayu-mirage_repo] |
-| `midnight-purple` ![midnight-purple][midnight-purple_repo] | `calm` ![calm][calm_repo] | `flag-india` ![flag-india][flag-india_repo] |
-| `omni` ![omni][omni_repo] | `react` ![react][react_repo] | `jolly` ![jolly][jolly_repo] |
-| `maroongold` ![maroongold][maroongold_repo] | `yeblu` ![yeblu][yeblu_repo] | `blueberry` ![blueberry][blueberry_repo] |
-| `slateorange` ![slateorange][slateorange_repo] | `kacho_ga` ![kacho_ga][kacho_ga_repo] | `outrun` ![outrun][outrun_repo] |
-| `ocean_dark` ![ocean_dark][ocean_dark_repo] | `city_lights` ![city_lights][city_lights_repo] | `github_dark` ![github_dark][github_dark_repo] |
-| `discord_old_blurple` ![discord_old_blurple][discord_old_blurple_repo] | `aura_dark` ![aura_dark][aura_dark_repo] | `panda` ![panda][panda_repo] |
-| `noctis_minimus` ![noctis_minimus][noctis_minimus_repo] | `cobalt2` ![cobalt2][cobalt2_repo] | `swift` ![swift][swift_repo] |
-| `aura` ![aura][aura_repo] |  | [Add your theme][add-theme] |
-
-
-[default]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
-[default_repocard]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
-[dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
-[radical]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
-[merko]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
-[gruvbox]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
-[gruvbox_light]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light
-[tokyonight]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
-[onedark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=onedark
-[cobalt]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt
-[synthwave]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave
-[highcontrast]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast
-[dracula]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
-[prussian]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian
-[monokai]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai
-[vue]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue
-[vue-dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark
-[shades-of-purple]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple
-[nightowl]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
-[buefy]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
-[blue-green]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
-[algolia]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia
-[great-gatsby]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby
-[darcula]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula
-[bear]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear
-[solarized-dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-dark
-[solarized-light]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-light
-[chartreuse-dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark
-[nord]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord
-[gotham]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham
-[material-palenight]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight
-[graywhite]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite
-[vision-friendly-dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark
-[ayu-mirage]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage
-[midnight-purple]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple
-[calm]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm
-[flag-india]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india
-[omni]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni
-[react]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react
-[jolly]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly
-[maroongold]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=maroongold
-[yeblu]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=yeblu
-[blueberry]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry
-[slateorange]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=slateorange
-[kacho_ga]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=kacho_ga
-[outrun]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=outrun
-[ocean_dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean_dark
-[city_lights]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights
-[github_dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark
-[discord_old_blurple]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=discord_old_blurple
-[aura_dark]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark
-[panda]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda
-[noctis_minimus]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=noctis_minimus
-[cobalt2]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt2
-[swift]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift
-[aura]: https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura
-
-
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=default
-[default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
-[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=dark
-[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=radical
-[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=merko
-[gruvbox_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox
-[gruvbox_light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox_light
-[tokyonight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight
-[onedark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=onedark
-[cobalt_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=cobalt
-[synthwave_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=synthwave
-[highcontrast_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
-[dracula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=dracula
-[prussian_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=prussian
-[monokai_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=monokai
-[vue_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=vue
-[vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=vue-dark
-[shades-of-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=shades-of-purple
-[nightowl_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=nightowl
-[buefy_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=buefy
-[blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
-[algolia_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=algolia
-[great-gatsby_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=great-gatsby
-[darcula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=darcula
-[bear_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=bear
-[solarized-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=solarized-dark
-[solarized-light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=solarized-light
-[chartreuse-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=chartreuse-dark
-[nord_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=nord
-[gotham_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=gotham
-[material-palenight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight
-[graywhite_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=graywhite
-[vision-friendly-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=vision-friendly-dark
-[ayu-mirage_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=ayu-mirage
-[midnight-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple
-[calm_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=calm
-[flag-india_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=flag-india
-[omni_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=omni
-[react_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=react
-[jolly_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=jolly
-[maroongold_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=maroongold
-[yeblu_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=yeblu
-[blueberry_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=blueberry
-[slateorange_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=slateorange
-[kacho_ga_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=kacho_ga
-[outrun_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=outrun
-[ocean_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=ocean_dark
-[city_lights_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=city_lights
-[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
-[discord_old_blurple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=discord_old_blurple
-[aura_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark
-[panda_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=panda
-[noctis_minimus_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=noctis_minimus
-[cobalt2_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=cobalt2
-[swift_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=swift
-[aura_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SparkScratch-P&repo=github-readme-stats&cache_seconds=86400&theme=aura
-
-
-[add-theme]: https://github.com/SparkScratch-P/github-readme-stats/edit/master/themes/index.js
-  
 </p>
   
 </details>
