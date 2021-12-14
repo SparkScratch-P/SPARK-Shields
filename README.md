@@ -13,6 +13,9 @@ Shields for your Read me
 <li>Copy and paste on your profile</li>
 </ol>
 
+<script src="tabs.html"></script>
+
+
 
 ## Explore the Amazing Collection of 1500+ Company Badges!
 
