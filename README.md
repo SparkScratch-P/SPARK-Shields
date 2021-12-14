@@ -57,7 +57,7 @@ body {font-family: Arial;}
 <h2>Automatic Badge Makers</h2>
 <p>
   
-<h4 id="run-on-full-screen-">Run on full Screen:</h4>
+<h4 id="run-on-full-screen-">Run on New Tab:</h4>
 
 <blockquote>
 <p> <a href="https://sparkscratch-p.github.io/SPARK-Shields/custom-badges/">Custom Badges</a></p>
