@@ -13,7 +13,6 @@ Shields for your Read me
 <li>Copy and paste on your profile</li>
 </ol>
 
-<div>
  <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {font-family: Arial;}
@@ -104,9 +103,6 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 </script>
-
-</div>
-
 
 
 ## Explore the Amazing Collection of 1500+ Company Badges!
