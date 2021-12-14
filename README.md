@@ -13,7 +13,9 @@ Shields for your Read me
 <li>Copy and paste on your profile</li>
 </ol>
 
-<script src="tabs.html"></script>
+<div>
+ <script src="tabs.html"></script>
+</div>
 
 
 
