@@ -3023,8 +3023,14 @@ Use `?theme=THEME_NAME` parameter like so :-
 
 ---
 
+<h2 align="center">
 # Add Badges and themes , we would be happy to merge PRs and get your Contributions Credited!!!
+</h2>
 
+<h2 align="center">
 # Show Some Support by Stars and forks on this Repo!
-
+</h2>
+  
+<h2 align="center">
 # Thank you ! 
+</h2>
