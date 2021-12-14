@@ -1,4 +1,7 @@
 # SPARK-Shields
+
+!['](https://visitor-badge.glitch.me/badge?page_id=SPARK-Sheilds.visitor-badge&left_text=Visitors)
+
 Highly Customizable Dynamic and Static Badge Creator for Profile Readme.Md and Webpages with Github, Wakatime, and Sheilds.io in Dynamic HTML
 
 Shields for your Read me 
