@@ -17,14 +17,12 @@ Shields for your Read me
 <style>
 body {font-family: Arial;}
 
-/* Style the tab */
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
 }
 
-/* Style the buttons inside the tab */
 .tab button {
   background-color: inherit;
   float: left;
@@ -36,17 +34,17 @@ body {font-family: Arial;}
   font-size: 17px;
 }
 
-/* Change background color of buttons on hover */
+
 .tab button:hover {
   background-color: #ddd;
 }
 
-/* Create an active/current tablink class */
+
 .tab button.active {
   background-color: #ccc;
 }
 
-/* Style the tab content */
+
 .tabcontent {
   display: none;
   padding: 6px 12px;
@@ -56,8 +54,17 @@ body {font-family: Arial;}
 </style>
 
 
-<h2>Tabs</h2>
-<p>Click on the buttons inside the tabbed menu:</p>
+<h2>Automatic Badge Makers</h2>
+<p>
+  
+<h4 id="run-on-full-screen-">Run on full Screen:</h4>
+
+<blockquote>
+<p> <a href="https://sparkscratch-p.github.io/SPARK-Shields/custom-badges/">Custom Badges</a></p>
+<p> <a href="https://sparkscratch-p.github.io/SPARK-Shields/brand-icons/">Brand Icons</a></p>
+<p> <a href="https://sparkscratch-p.github.io/SPARK-Shields/github-stats/">GitHub Stats</a></p>
+</blockquote>
+</p>
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Custom Badges')">Custom Badges</button>
