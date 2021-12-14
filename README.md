@@ -3032,5 +3032,5 @@ Use `?theme=THEME_NAME` parameter like so :-
 </h2>
   
 <h2 align="center">
-# Thank you ! 
+# ❤️Thank you !❤️ 
 </h2>
