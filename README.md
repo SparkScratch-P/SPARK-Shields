@@ -4,7 +4,6 @@
          align="right">
 
 
-# SPARK-Shields
 
 !['](https://visitor-badge.glitch.me/badge?page_id=SPARK-Sheilds.visitor-badge&left_text=Visitors)
 
