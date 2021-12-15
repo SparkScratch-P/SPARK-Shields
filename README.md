@@ -123,6 +123,8 @@ function openCity(evt, cityName) {
 </script>
 
 
+### Choose the Perfect Shade for Your Badge With My [HSL HEX Color Picker](https://sparkscratch-p.github.io/hsl-hex-color-picker/)!
+
 ## Explore the Amazing Collection of 1500+ Company Badges!
 
 ![SPARKSheildbadge-Badges](https://img.shields.io/badge/Badges-1500+-blue.svg)
