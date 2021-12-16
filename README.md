@@ -84,14 +84,14 @@ body {font-family: Arial;}
 
 <div id="Custom Badges" class="tabcontent">
   <p>
-  <iframe src="https://sparkscratch-p.github.io/SPARK-Shields/custom-badges/" width="100%" height="300" style="border:1px solid black;">
+  <iframe src="https://sparkscratch-p.github.io/SPARK-Shields/custom-badges/" width="100%" height="600" style="border:1px solid black;">
   </iframe>
   </p>
 </div>
 
 <div id="Brand Icons" class="tabcontent">
   <p>
-  <iframe src="https://sparkscratch-p.github.io/SPARK-Shields/brand-icons/" width="100%" height="300" style="border:1px solid black;">
+  <iframe src="https://sparkscratch-p.github.io/SPARK-Shields/brand-icons/" width="100%" height="600" style="border:1px solid black;">
   </iframe>
   </p> 
 </div>
@@ -99,7 +99,7 @@ body {font-family: Arial;}
 <div id="Github Stats" class="tabcontent">
   <p>
     
-  <iframe src="https://sparkscratch-p.github.io/SPARK-Shields/github-stats" width="100%" height="300" style="border:1px solid black;">
+  <iframe src="https://sparkscratch-p.github.io/SPARK-Shields/github-stats" width="100%" height="600" style="border:1px solid black;">
   </iframe>
     
   </p>
@@ -122,7 +122,20 @@ function openCity(evt, cityName) {
 </script>
 
 
-### Choose the Perfect Shade for Your Badge With My [HSL HEX Color Picker](https://sparkscratch-p.github.io/hsl-hex-color-picker/)!
+## Choose the Perfect Shade for Your Badge With My [HSL HEX Color Picker](https://sparkscratch-p.github.io/hsl-hex-color-picker/)!
+
+<details><summary>Use It Here</summary>
+         
+ <iframe src="https://sparkscratch-p.github.io/hsl-hex-color-picker/" width="100%" height="600" style="border:1px solid black;">
+  </iframe>
+         
+</details>
+
+## Choose A Style for Your Badge 
+
+ You can make your badge  a stylish one! Styles to Shields are added with `?style=`,folowed by the Style name at the end of the URL . Choose a style for your badge from the following List! 
+
+         
 
 ## Explore the Amazing Collection of 1500+ Company Badges!
 
