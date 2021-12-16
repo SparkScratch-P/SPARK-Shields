@@ -135,7 +135,24 @@ function openCity(evt, cityName) {
 
  You can make your badge  a stylish one! Styles to Shields are added with `?style=`,folowed by the Style name at the end of the URL . Choose a style for your badge from the following List! 
 
-         
+- Flat
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=flat)
+ 
+- Plastic
+  ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=flat)
+  
+- Flat Square 
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=flat-square)
+
+- For The Badge
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=for-the-badge)
+ 
+- Social 
+ ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=social)
+ 
+ 
+---
+
 
 ## Explore the Amazing Collection of 1500+ Company Badges!
 
