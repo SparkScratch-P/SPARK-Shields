@@ -134,22 +134,28 @@ function openCity(evt, cityName) {
 ## Choose A Style for Your Badge 
 
  You can make your badge  a stylish one! Styles to Shields are added with `?style=`,folowed by the Style name at the end of the URL . Choose a style for your badge from the following List! 
-
-- Flat
- ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=flat)
  
-- Plastic
-  ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=flat)
-  
-- Flat Square 
- ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=flat-square)
-
-- For The Badge
- ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=for-the-badge)
- 
-- Social 
- ![SPARKSheildbadge-Hello](https://img.shields.io/badge/Hello-World-green.svg?style=social)
- 
+<details><summary><b>Choose Your Style !!!</b></summary>
+         
+<ul>
+<li><p>Flat</p>
+<p><img src="https://img.shields.io/badge/Hello-World-green.svg?style=flat" alt="SPARKSheildbadge-Hello"></p>
+</li>
+<li><p>Plastic</p>
+<p><img src="https://img.shields.io/badge/Hello-World-green.svg?style=flat" alt="SPARKSheildbadge-Hello"></p>
+</li>
+<li><p>Flat Square </p>
+<p><img src="https://img.shields.io/badge/Hello-World-green.svg?style=flat-square" alt="SPARKSheildbadge-Hello"></p>
+</li>
+<li><p>For The Badge</p>
+<p><img src="https://img.shields.io/badge/Hello-World-green.svg?style=for-the-badge" alt="SPARKSheildbadge-Hello"></p>
+</li>
+<li><p>Social </p>
+<p><img src="https://img.shields.io/badge/Hello-World-green.svg?style=social" alt="SPARKSheildbadge-Hello"></p>
+</li>
+</ul>
+         
+</details> 
  
 ---
 
